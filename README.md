@@ -1,8 +1,10 @@
 # Exploratory-Data-Analysis-to-Identify-Shopping-Trends
 Project Overview
+
 This project aims to analyze and visualize shopping trends, uncovering key patterns and insights from the provided dataset. The analysis will focus on identifying factors such as customer demographics, popular product categories, purchasing behaviors, seasonal trends, and correlations among various attributes. By performing exploratory data analysis (EDA), the goal is to better understand the underlying patterns in shopping behavior to support business strategies and decision-making.
 
 Dataset Description
+
 The dataset used in this project includes data related to shopping transactions, customer demographics, product categories, and sales performance. Key columns in the dataset include:
 
 Customer ID: Unique identifier for each customer.
@@ -24,6 +26,7 @@ Correlation Analysis: Investigate correlations between different variables (e.g.
 Segmentation: Analyze shopping trends by demographics (age, gender, location).
 Seasonal Analysis: Investigate trends over time, identifying seasonal patterns in purchases.
 Insights & Conclusions: Summarize findings and provide actionable insights to improve sales and marketing strategies.
+
 Requirements
 Python 3.x
 Pandas
