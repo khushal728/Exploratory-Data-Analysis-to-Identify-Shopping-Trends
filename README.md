@@ -15,6 +15,7 @@ Purchase Date: The date and time of the purchase.
 Customer Age: Age of the customer at the time of purchase.
 Gender: Gender of the customer.
 Location: Geographical location of the customer (city, state, country).
+
 Project Workflow
 Data Collection: Import the dataset and load it into a Pandas DataFrame.
 Data Cleaning: Handle missing values, duplicates, and incorrect data entries.
@@ -26,6 +27,7 @@ Correlation Analysis: Investigate correlations between different variables (e.g.
 Segmentation: Analyze shopping trends by demographics (age, gender, location).
 Seasonal Analysis: Investigate trends over time, identifying seasonal patterns in purchases.
 Insights & Conclusions: Summarize findings and provide actionable insights to improve sales and marketing strategies.
+
 
 Requirements
 Python 3.x
